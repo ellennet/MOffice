@@ -1,0 +1,14 @@
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\Background.png
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\com.skmobile.MOffice.dll
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\com.skmobile.MOffice.pdb
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Workspaces\MOffice\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\App.g.cs
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\com.skmobile.MOffice.g.resources
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\com.skmobile.MOffice.dll
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\com.skmobile.MOffice.pdb
+D:\Workspaces\MOffice\platforms\wp8\obj\Debug\XapCacheFile.xml
